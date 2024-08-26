@@ -1,0 +1,360 @@
+2024-08-20 13:34:46 [ERROR]: Error: Can't find /api/customersaaa on this server
+    at file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/utils/setupMiddleware.js:19:10
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:149:13)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at Route.dispatch (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:119:3)
+2024-08-20 13:56:21 [ERROR]: Error: Validation failed
+    at D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\celebrate\lib\celebrate.js:95:19
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-20 15:20:02 [ERROR]: Error: Unauthorized
+    at authentication (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/auth/authenticate.js:10:10)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+    at D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+2024-08-20 15:20:38 [ERROR]: Error: Unauthorized
+    at authentication (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/auth/authenticate.js:10:10)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+    at D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+2024-08-20 15:34:18 [ERROR]: Error: Validation failed
+    at D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\celebrate\lib\celebrate.js:95:19
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-20 15:48:13 [ERROR]: Error: Validation failed
+    at D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\celebrate\lib\celebrate.js:95:19
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-20 16:32:15 [ERROR]: Error
+    at file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/utils/setupMiddleware.js:20:7
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:149:13)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+2024-08-20 16:33:45 [ERROR]: Error: Can't find /api/customersadfsdfsdfsdf on this server
+    at file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/utils/setupMiddleware.js:20:7
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:149:13)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+2024-08-20 16:34:53 [ERROR]: Error: Can't find /api/customersadfsdfsdfsdf on this server
+    at file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/utils/setupMiddleware.js:20:7
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:149:13)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+2024-08-20 16:35:33 [ERROR]: Error: [object Object]
+    at authentication (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/auth/authenticate.js:25:7)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+    at D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+2024-08-20 16:36:26 [ERROR]: Error: [object Object]
+    at authentication (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/auth/authenticate.js:25:7)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+    at D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+2024-08-20 16:38:14 [ERROR]: Error: [object Object]
+    at authentication (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/auth/authenticate.js:25:7)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+    at D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+2024-08-20 16:38:51 [ERROR]: Error: [object Object]
+    at authentication (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/auth/authenticate.js:25:7)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+    at D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+2024-08-20 16:39:02 [ERROR]: Error: [object Object]
+    at authentication (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/auth/authenticate.js:25:7)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+    at D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+2024-08-20 16:39:12 [ERROR]: Error: [object Object]
+    at authentication (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/auth/authenticate.js:25:7)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+    at D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+2024-08-20 16:39:50 [ERROR]: Error: [object Object]
+    at authentication (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/auth/authenticate.js:25:7)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+    at D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+2024-08-20 16:46:00 [ERROR]: Error: [object Object]
+    at authentication (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/auth/authenticate.js:25:7)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+    at D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+2024-08-20 16:47:59 [ERROR]: Error: Invalid or expired token
+    at authentication (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/auth/authenticate.js:25:7)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+    at D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+2024-08-20 16:48:41 [ERROR]: Error: Invalid or expired token
+    at authentication (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/auth/authenticate.js:25:7)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+    at D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\index.js:328:13)
+2024-08-20 17:29:54 [ERROR]: Error: Can't find /api/users/loginsss on this server
+    at file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/utils/setupMiddleware.js:20:7
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:149:13)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+2024-08-20 17:30:01 [ERROR]: Error: Can't find /api/users/loginsss on this server
+    at file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/utils/setupMiddleware.js:20:7
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:149:13)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+2024-08-20 17:31:18 [ERROR]: Error: Can't find /api/users/loginsss on this server
+    at file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/utils/setupMiddleware.js:20:7
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:149:13)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+2024-08-20 17:31:45 [ERROR]: Error: Can't find /api/users/loginsss on this server
+    at file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/utils/setupMiddleware.js:20:7
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:149:13)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+2024-08-20 17:32:02 [ERROR]: Error: Can't find /api/users/loginsss on this server
+    at file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/utils/setupMiddleware.js:20:7
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:149:13)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+2024-08-20 17:32:20 [ERROR]: Error: Can't find /api/users/loginsss on this server
+    at file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/utils/setupMiddleware.js:20:7
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:149:13)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+2024-08-20 17:32:31 [ERROR]: Error: Can't find /api/users/loginsss on this server
+    at file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/utils/setupMiddleware.js:20:7
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:149:13)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+2024-08-20 17:32:50 [ERROR]: Error: Wrong username or password
+    at Object.loginUser (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/services/userService.js:26:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/controllers/userController.js:10:17
+2024-08-20 17:34:43 [ERROR]: Error: Wrong username or password
+    at Object.loginUser (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/services/userService.js:27:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/controllers/userController.js:10:17
+2024-08-20 17:36:57 [ERROR]: Error: Wrong username or password
+    at Object.loginUser (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/services/userService.js:31:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/controllers/userController.js:10:17
+2024-08-20 17:37:03 [ERROR]: Error: Wrong username or password
+    at Object.loginUser (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/services/userService.js:41:11)
+    at async file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/controllers/userController.js:10:17
+2024-08-20 17:37:24 [ERROR]: Error: Can't find /api/customersss on this server
+    at file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/utils/setupMiddleware.js:20:7
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:149:13)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at Route.dispatch (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:119:3)
+2024-08-20 17:37:42 [ERROR]: Error: Employee is not found
+    at Object.getEmployeeById (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/services/employeeService.js:25:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/controllers/employeeController.js:20:20
+2024-08-20 17:39:06 [ERROR]: Error: Employee is not found
+    at Object.getEmployeeById (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/services/employeeService.js:30:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/controllers/employeeController.js:20:20
+2024-08-20 17:39:15 [ERROR]: Error: Employee is not found
+    at Object.getEmployeeById (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/services/employeeService.js:30:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/controllers/employeeController.js:20:20
+2024-08-20 17:48:51 [ERROR]: Error: Can't find /api/employees2 on this server
+    at file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/utils/setupMiddleware.js:20:7
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:149:13)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+2024-08-20 17:57:25 [ERROR]: Error: Employee number is invalid
+    at Object.createUser (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/services/userService.js:12:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/controllers/userController.js:5:18
+2024-08-20 17:57:42 [ERROR]: SyntaxError: Unexpected token '}', ..."umber": 
+}" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at parse (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\body-parser\lib\types\json.js:92:19)
+    at D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\raw-body\index.js:238:16)
+    at done (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-08-20 17:57:50 [ERROR]: Error: Can't find /api/users/registerasdasd on this server
+    at file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/utils/setupMiddleware.js:20:7
+    at Layer.handle [as handle_request] (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:149:13)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+    at next (D:\Study\Fsoft\Node Documents\Node Assignments\Unit 2\node_modules\express\lib\router\route.js:145:7)
+2024-08-20 17:57:55 [ERROR]: Error: Employee number is invalid
+    at Object.createUser (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/services/userService.js:12:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/controllers/userController.js:5:18
+2024-08-20 18:00:08 [ERROR]: Error: Wrong username or password
+    at Object.loginUser (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/services/userService.js:41:11)
+    at async file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/controllers/userController.js:10:17
+2024-08-20 18:00:52 [ERROR]: Error: Wrong username or password
+    at Object.loginUser (file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/services/userService.js:41:11)
+    at async file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/controllers/userController.js:10:17
+2024-08-20 18:04:54 [ERROR]: Error: Access Denied
+    at file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/auth/authorize.js:38:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-20 18:09:14 [ERROR]: Error: No permission to this data
+    at file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/auth/authorize.js:38:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-20 18:09:36 [ERROR]: Error: No permission to access this data
+    at file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/auth/authorize.js:38:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-20 18:14:31 [ERROR]: Error: No permission to access this data
+    at file:///D:/Study/Fsoft/Node%20Documents/Node%20Assignments/Unit%202/src/auth/authorize.js:38:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
